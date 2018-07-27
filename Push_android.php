@@ -2,7 +2,7 @@
 /**
  * @Alok Dubey
  * copyright@2018
- send push notification to android php using fcm
+* send push notification to android php using fcm
  */
 define("KEY", "Yor fcm key here");// change it with your fcm key
 define("TITLE", "Your project title"); //cheange it with your project title
